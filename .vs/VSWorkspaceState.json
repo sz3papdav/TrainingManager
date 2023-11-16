@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TrainingManager",
+    "\\TrainingManager\\TrainingManager",
+    "\\TrainingManager\\TrainingManager\\Models",
+    "\\TrainingManager\\TrainingManager\\ViewModels"
+  ],
+  "SelectedNode": "\\TrainingManager\\TrainingManager\\TrainingManagerProject.csproj",
+  "PreviewInSolutionExplorer": false
+}

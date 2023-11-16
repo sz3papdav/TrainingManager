@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7P1OOHNPZWQgGKL5eE+LBn02xoQv20KaEj3VKQjwlPZ3FqSqR1a4K+pLL1hL/8T9/jOzA7jP1YpVKdtKaZw1uA==",
+  "success": true,
+  "projectFilePath": "J:\\asztali\\Desktop\\11\\TrainingManager\\TrainingManager\\TrainingManagerProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sz3papdav\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\sz3papdav\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
